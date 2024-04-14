@@ -5,6 +5,6 @@ Creting a branch
 git branch staging
 
 This is now feature branch 
-
+Another commit
 
 
